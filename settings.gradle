@@ -1,0 +1,2 @@
+include ':app', ':progresslayout'
+rootProject.name='ProgressLayoutExample'

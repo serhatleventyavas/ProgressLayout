@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="progressLayout">
+        <attr name="pl_emptyColor" format="color" />
+        <attr name="pl_progressColor" format="color" />
+        <attr name="pl_maxProgress" format="integer" />
+        <attr name="pl_autoProgress" format="boolean"/>
+        <attr name="pl_radius" format="dimension" />
+    </declare-styleable>
+</resources>
